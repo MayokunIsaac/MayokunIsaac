@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MayokunIsaac
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Programming and Machine Learning
-- 💞️ I’m looking to collaborate on Web development
+- 👀 I’m interested in software development, artificial intelligence and data science
+- 🌱 I’m currently a Software in JP Morgan Chase, United Kingdom 
+- 💞️ I’m looking to collaborate on Software Development
 
 
 <!---
