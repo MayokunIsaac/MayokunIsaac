@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MayokunIsaac
-- 👀 I’m interested in software development, artificial intelligence and data science
-- 🌱 I’m currently a Software in JP Morgan Chase, United Kingdom 
+- 👀 I’m interested in Software Development, Artificial Intelligence and Data Science
+- 🌱 I’m currently a Software Engineer in JP Morgan Chase, United Kingdom 
 - 💞️ I’m looking to collaborate on Software Development
 
 
